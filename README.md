@@ -1,7 +1,6 @@
-Supported distributions
-Ubuntu 18.04 , Ubuntu 20.04
+Supported distributions: Ubuntu 18.04 , Ubuntu 20.04
 
-Hiveos Custom Configuration
+Hiveos Custom Configuration:
 
 1. Miner name: zktminer
 2. Installation URL: http://106.15.194.101:8080/aleo/miner/zktminer.tar.gz
