@@ -1,5 +1,7 @@
 Supported distributions: Ubuntu 18.04 , Ubuntu 20.04
 
+Driver version 515 or above: You can find instructions here: https://developer.nvidia.com/cuda-downloads
+
 Hiveos Custom Configuration:
 
 1. Miner name: zktminer
