@@ -12,7 +12,7 @@ Hiveos Custom Configuration:
 5. Pool URL: wss://aleo.zkto.xyz:3666#zkt
 ———————————————————————————————————————————————————
 1. Miner name: zktminer15beta
-2. Installation URL: http://8.219.200.155/aleo/miner/zktminer15.tar.gz
+2. Installation URL: http://8.219.200.155/aleo/miner/zktminer15beta.tar.gz
 3. Hash algorithm: aleo-marlin
 4. Wallet and worker template: %WAL%.%WORKER_NAME%
 5. Pool URL: wss://aleo.zkto.xyz:3666#zkt
